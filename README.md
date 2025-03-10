@@ -18,6 +18,21 @@
   
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+**Steps to Create a New Repository**
+- Login to your GitHub account
+- Create a New repository by clicking the "+" icon at the top right corner
+- Choose a unique name for your project
+- You can add a description to summarize what your repository is about
+- On the visibility part, you can select whether to make it public or private
+- Initialize your repository with a README file
+- Then click on create repository
+- You can also Clone it,add files, make the first commit, and push changes to Github
+
+**Important decisions to make during the process**
+- Whether to make the repository public or private
+- Deciding repository name that is easy to remember
+- Initialize with README.md to help describe the project to usrs and contributors
+- Add a license
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
