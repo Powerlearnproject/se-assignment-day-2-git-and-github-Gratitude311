@@ -103,10 +103,28 @@ It encourages open-source contributions as it attracts more developers to contri
 **Best use-case for Private repo**
 
 - Projects with sensitive data
-- Projects in early stage development before public release
-- Proprietart software development
+- Projects in early-stage development before public release
+- Proprietary software development
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+
+## Steps to make the first commit to a GitHub repository ##
+
+Create a new GitHub Repository
+Install Git if not yet installed
+Clone the Repo locally
+Create a new file
+Stage the changes by adding files in the staging area
+Commit changes
+Push the commit to GitHub  
+
+**Commit** is a snapshot of the changes made to a project at a specific point in time. It records modifications in files
+
+**Commits helps in**:
+
+Collaboration - Allow different contributors to work on a project while keeping track of individual changes
+Track changes - You can see the history of modifications
+Version control you can go to previous versions if needed
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
