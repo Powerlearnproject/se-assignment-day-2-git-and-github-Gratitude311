@@ -193,14 +193,19 @@ In Git the default branch is called main or master and when you create a new bra
 ## Common Challenges and Best practices in using GitHub for version control
 
 - Not understanding Git and GitHub
+
 **Solution** - Learn Git basics before using GitHub
 - Forgetting to commit regularly
+
 **Solution** -Commuit frequently with meaningful messages
 - Not using Branches properly
+
 **Solution** - Use feature branches and merge them via pull requests
 - Not using Issues and Pull Requests for Collaboration
+
 **Solution** - Use GitHub Issues for tracking tasks and pull Requests for code review
 - Accidentally Pushing sensitive information
+
 **Solution** - Use .gitignore to prevent sensitive files from being tracked and remove credentials before committing
 
 ## Best Practises for Smooth Collaboration
