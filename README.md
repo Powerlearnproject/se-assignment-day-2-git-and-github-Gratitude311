@@ -172,9 +172,19 @@ In Git the default branch is called main or master and when you create a new bra
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
-## Forking
+**Forking** - This is the process of creating a personal copy of another user's repository in your GitHub account. This allows you to experiment, modify, and contribute to the original project without affecting the source repo.
 
+## Forking vs Cloning
+- In forking you create a copy of a repo in your own GitHub account while in Cloning you create a copy of a repo on your computer
+- In Forking it happens on your GitHub account while in Cloning it happens on your computer
+- In Forking it stays linked to the original repo and changes can be made via pull request while in Cloning there is no direct link to the original repo
+- In forking it is used for contributing to a public repository while in cloning it is used for working on a project locally
 
+## Scenarios where forking is useful
+- Contributing to projects without direct access
+- When creating a personal version of a project
+- To experiment without risk
+- To contribute to open-source projects
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
