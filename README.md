@@ -9,16 +9,14 @@
 **Version Control helps maintain Project Integrity** by
 
 - Resolving conflict through managing code conflicts
-
 - Reversing a bug or an issue
-
 - Tracking history making it easy to review past modifications
-
 - Ensuring security and accountability as every change is linked to a specific user
-  
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+
 **Steps to Create a New Repository**
+
 - Login to your GitHub account
 - Create a New repository by clicking the "+" icon at the top right corner
 - Choose a unique name for your project
@@ -29,48 +27,37 @@
 - You can also Clone it, add files, make the first commit, and push changes to GitHub
 
 **Important decisions to make during the process**
+
 - Whether to make the repository public or private
-- Deciding repository name that is easy to remember
-- Initialize with README.md to help describe the project to usrs and contributors
+- Deciding a repository name that is easy to remember
+- Initialize with README.md to help describe the project to users and contributors
 - Add a license
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 **Importance of README file in a GitHub repository**
 
-- It serves as the documentation hub for projects. It enhances clarity and promotes collaboration as it provides important details such as what the project does, how to use it, and how others can contribute
+It serves as the documentation hub for projects. It enhances clarity and promotes collaboration as it provides important details such as what the project does, how to use it, and how others can contribute
 
 **What should be included in a well-written README**
 
-The project's title and description
-
-Installation guide -  How to install dependencies and set up the project
-
-Usage guide - on how to run the project
-
-Features of the project
-
-Configuration if needed - how to modify settings
-
-Contribution guidelines
-
-License - helps others know how they can use your code
-
-Acknowledgments and credits - mention libraries, contributors, and tools used
-
-Contact information - Provide ways for users to ask questions or report issues
+- The project's title and description
+- Installation guide -  How to install dependencies and set up the project
+- Usage guide - on how to run the project
+- Features of the project
+- Configuration if needed - how to modify settings
+- Contribution guidelines
+- License - helps others know how they can use your code
+- Acknowledgments and credits - mention libraries, contributors, and tools used
+- Contact information - Provide ways for users to ask questions or report issues
 
 **How It contributes to effective collaboration**
 
-It boosts project visibility  by improving searchability on Github
-
-It saves time by providing answers in one place thus avoiding repetition
-
-It makes it easy for new contributors to understand the project without confusion
-
-It provides clarity on the project's goals, functionality, and contribution guidelines
-
-It encourages open-source contributions as it attracts more developers to contribute
+- It boosts project visibility  by improving searchability on Github
+- It saves time by providing answers in one place thus avoiding repetition
+- It makes it easy for new contributors to understand the project without confusion
+- It provides clarity on the project's goals, functionality, and contribution guidelines
+- It encourages open-source contributions as it attracts more developers to contribute
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
@@ -88,11 +75,11 @@ It encourages open-source contributions as it attracts more developers to contri
 - It promotes community collaboration allowing developers worldwide to contribute
 - It is free thus unlimited collaborators can access it
 
-  **Disadvantages of Public Repo**
+**Disadvantages of Public Repo**
   
-  - It poses security risks as anyone can access it
-  - It  makes work accessible to competitors who can reuse or copy it
-  - It makes it a little bit harder to manage pull requests and filter out low-quality contributions
+- It poses security risks as anyone can access it
+- It  makes work accessible to competitors who can reuse or copy it
+- It makes it a little bit harder to manage pull requests and filter out low-quality contributions
 
 **Best use-case for Public Repo**
 
