@@ -188,6 +188,21 @@ In Git the default branch is called main or master and when you create a new bra
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
+**Issues** - Is like a ticket where developers can report bugs, suggest features, or discuss improvements
+
+It helps with bug tracking, task management, categorizing issues, assigning issues to specifci team members, and helps in referencing or tracking issues
+
+**Project Boards** - Provides an interface for organizing and tracking work
+
+It helps in task organization, automating tasks, and team collaboration
+
+## How they improve collaboration
+
+- It enhances productivity by breaking down complex projects into manageable tasks
+- They keeps everyone aligned ensuring transparency and clear task allocation
+- It improves communication as team members can discuss and resolve issues efficiently
+- It helps automates repetitive project management tasks
+
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 ## Common Challenges and Best practices in using GitHub for version control
